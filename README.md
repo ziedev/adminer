@@ -3,7 +3,7 @@
 
 Adminer - Database management in a single PHP file
 
-[https://www.adminer.org/] (https://www.adminer.org/)
+https://www.adminer.org/
 
 ## How To Use
 
